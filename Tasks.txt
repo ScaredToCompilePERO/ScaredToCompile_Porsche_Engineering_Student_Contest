@@ -1,0 +1,18 @@
+
+MISC:
+-git repo pushat pe cloud
+-Data set descarcare
+-YOLOv5
+-Libraries
+-Train model XXXXX
+
+MAIN TASKS:
+-traffic sign detection classification
+-cloud deployment
+
+
+EXTRA STUFF:
+-face detection drowsy
+-eye detection?
+
+StudentContest
