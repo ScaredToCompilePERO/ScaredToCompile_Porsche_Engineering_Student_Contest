@@ -1,18 +1,18 @@
 
 MISC:
--git repo pushat pe cloud
--Data set descarcare
--YOLOv5
--Libraries
--Train model XXXXX
+-git repo pushat pe cloud DONE
+-Data set descarcare DONE
+-YOLOv5 DONE
+-Libraries DONE
+-Train model XXXXX DONE
 
 MAIN TASKS:
--traffic sign detection classification
+-traffic sign detection classification DONE
 -cloud deployment
 
 
 EXTRA STUFF:
--face detection drowsy
+-face detection drowsy DONE
 -eye detection?
 
 StudentContest
